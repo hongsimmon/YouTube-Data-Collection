@@ -1,0 +1,7 @@
+aiohttp
+aiohappyeyeballs
+propcache
+typing-extensions
+yarl
+beautifulsoup4
+numpy
