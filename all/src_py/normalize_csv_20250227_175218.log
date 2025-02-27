@@ -1,0 +1,60 @@
+2025-02-27 17:52:18,352 - INFO - ================================================================================
+2025-02-27 17:52:18,352 - INFO - YOUTUBE CSV NORMALIZER
+2025-02-27 17:52:18,352 - INFO - ================================================================================
+2025-02-27 17:52:18,352 - INFO - Processing file: ../data/data_csv/videos_detail_animals_20241015.csv
+2025-02-27 17:52:18,352 - INFO - Reading CSV file...
+2025-02-27 17:52:20,011 - INFO - Successfully read file with 156226 rows and 14 columns
+2025-02-27 17:52:20,011 - INFO - 
+Original columns and data types:
+2025-02-27 17:52:20,016 - INFO -   video_id: string - 156226 non-null values (100.0%)
+2025-02-27 17:52:20,020 - INFO -   title: string - 156210 non-null values (100.0%)
+2025-02-27 17:52:20,024 - INFO -   description: string - 104835 non-null values (67.1%)
+2025-02-27 17:52:20,029 - INFO -   title_description: string - 156194 non-null values (100.0%)
+2025-02-27 17:52:20,030 - INFO -   label1: string - 16 non-null values (0.0%)
+2025-02-27 17:52:20,030 - INFO -   label2: string - 16 non-null values (0.0%)
+2025-02-27 17:52:20,033 - INFO -   upload_date: object - 156194 non-null values (100.0%)
+2025-02-27 17:52:20,035 - INFO -   channel_id: string - 156194 non-null values (100.0%)
+2025-02-27 17:52:20,039 - INFO -   view_count: object - 156194 non-null values (100.0%)
+2025-02-27 17:52:20,042 - INFO -   like_count: object - 156194 non-null values (100.0%)
+2025-02-27 17:52:20,044 - INFO -   comment_count: object - 156182 non-null values (100.0%)
+2025-02-27 17:52:20,047 - INFO -   duration: object - 156170 non-null values (100.0%)
+2025-02-27 17:52:20,050 - INFO -   privacy_status: string - 156178 non-null values (100.0%)
+2025-02-27 17:52:20,052 - INFO -   topic_categories: string - 134565 non-null values (86.1%)
+2025-02-27 17:52:20,052 - INFO - 
+Standardized column names to lowercase
+2025-02-27 17:52:20,052 - INFO - Processing string column: video_id
+2025-02-27 17:52:20,098 - INFO -   Replaced 'nan' strings in video_id
+2025-02-27 17:52:20,098 - INFO - Processing string column: title
+2025-02-27 17:52:20,143 - INFO -   Replaced 'nan' strings in title
+2025-02-27 17:52:20,143 - INFO - Processing string column: description
+2025-02-27 17:52:20,223 - INFO -   Replaced 'nan' strings in description
+2025-02-27 17:52:20,223 - INFO - Processing string column: title_description
+2025-02-27 17:52:20,318 - INFO -   Replaced 'nan' strings in title_description
+2025-02-27 17:52:20,319 - INFO - Processing string column: channel_id
+2025-02-27 17:52:20,343 - INFO - Processing string column: privacy_status
+2025-02-27 17:52:20,367 - INFO - Processing string column: topic_categories
+2025-02-27 17:52:20,395 - INFO - Processing numeric column: view_count
+2025-02-27 17:52:20,421 - INFO - Processing numeric column: like_count
+2025-02-27 17:52:20,446 - INFO - Processing numeric column: comment_count
+2025-02-27 17:52:20,471 - INFO - Processing upload_date column
+2025-02-27 17:52:20,480 - INFO -   Valid dates: 156194 before conversion, 156178 after conversion
+2025-02-27 17:52:20,488 - INFO -   Monthly distribution: {1.0: 16420, 2.0: 14203, 3.0: 16168, 4.0: 14571, 5.0: 16055, 6.0: 16477, 7.0: 16321, 8.0: 16978, 9.0: 16931, 10.0: 12054}
+2025-02-27 17:52:20,488 - INFO - Processing collaborator data
+2025-02-27 17:52:20,590 - INFO -   Videos with collaborators: 16 (0.0%)
+2025-02-27 17:52:20,590 - INFO - Saving normalized file to: ../data/data_csv/normalized_videos_detail_animals_20241015.csv
+2025-02-27 17:52:24,717 - INFO - Verification successful - saved file has 156226 rows and 19 columns
+2025-02-27 17:52:24,718 - INFO - 
+Processing completed in 6.37 seconds
+2025-02-27 17:52:24,718 - INFO - 
+NORMALIZATION SUMMARY
+2025-02-27 17:52:24,718 - INFO - Original rows: 156226
+2025-02-27 17:52:24,718 - INFO - Final rows: 156226
+2025-02-27 17:52:24,718 - INFO - Original columns: 14
+2025-02-27 17:52:24,718 - INFO - Final columns: 19
+2025-02-27 17:52:24,718 - INFO - Added columns: upload_month, upload_year, label2_list, category, collaborator_count
+2025-02-27 17:52:24,718 - INFO - 
+The normalized CSV file is ready to use!
+2025-02-27 17:52:24,718 - INFO - To use the normalized file in your code, replace:
+2025-02-27 17:52:24,718 - INFO - videos = pd.read_csv(f"{data_path}data_csv/videos_detail_animals_20241015.csv", engine='python')
+2025-02-27 17:52:24,718 - INFO - with:
+2025-02-27 17:52:24,718 - INFO - videos = pd.read_csv(f"{data_path}data_csv/normalized_videos_detail_animals_20241015.csv")

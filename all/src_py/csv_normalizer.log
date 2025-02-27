@@ -1,0 +1,11 @@
+2025-02-27 17:49:30,531 - INFO - Processing category: animals
+2025-02-27 17:49:30,531 - WARNING - Directory not found: /Users/yjhong/Desktop/YouTube-Data-Collection/all/animals/data_csv
+2025-02-27 17:49:30,532 - INFO - Processing category: blogs
+2025-02-27 17:49:30,532 - WARNING - Directory not found: /Users/yjhong/Desktop/YouTube-Data-Collection/all/blogs/data_csv
+2025-02-27 17:49:30,532 - INFO - Processing category: comedy
+2025-02-27 17:49:30,532 - WARNING - Directory not found: /Users/yjhong/Desktop/YouTube-Data-Collection/all/comedy/data_csv
+2025-02-27 17:49:30,532 - INFO - Processing category: entertainment
+2025-02-27 17:49:30,532 - WARNING - Directory not found: /Users/yjhong/Desktop/YouTube-Data-Collection/all/entertainment/data_csv
+2025-02-27 17:49:30,532 - INFO - Processing category: gaming
+2025-02-27 17:49:30,532 - WARNING - Directory not found: /Users/yjhong/Desktop/YouTube-Data-Collection/all/gaming/data_csv
+2025-02-27 17:49:30,532 - WARNING - No data processed. Check for errors above.
