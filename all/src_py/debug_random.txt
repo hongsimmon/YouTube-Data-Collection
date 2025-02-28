@@ -1,0 +1,101 @@
+
+Selected index 299476
+
+Selected index 31664
+
+Selected index 119598
+
+Selected index 22372
+
+Selected index 116953
+
+Selected index 307157
+
+Selected index 301348
+
+Selected index 105635
+
+Selected index 118659
+
+Selected index 67110
+
+Selected index 322568
+
+Selected index 159518
+
+Selected index 51777
+
+Selected index 7308
+
+Selected index 310519
+
+Selected index 29132
+
+Selected index 280959
+
+Selected index 243427
+
+Selected index 77459
+
+Selected index 178258
+
+Selected index 240324
+
+Selected index 263417
+
+Selected index 198393
+
+Selected index 215696
+
+Selected index 178418
+
+Selected index 69888
+
+Selected index 28373
+
+Selected index 55917
+
+Selected index 150833
+
+Selected index 183255
+
+Selected index 178893
+
+Selected index 81687
+
+Selected index 273353
+
+Selected index 160931
+
+Selected index 281521
+
+Selected index 127326
+
+Selected index 59966
+
+Selected index 85401
+
+Selected index 225416
+
+Selected index 249225
+
+Selected index 323607
+
+Selected index 317477
+
+Selected index 227489
+
+Selected index 172730
+
+Selected index 82892
+
+Selected index 291349
+
+Selected index 243250
+
+Selected index 111048
+
+Selected index 167514
+
+Selected index 306741
+Final network dictionary: {'UCk8GzjMOrta8yxDcKfylJYw': {'UCFn3UEHSP2glZb4HgDbua1A': 1, 'UCQtufSNQEQRXuQAXf0OlZMw': 1}, 'UCuGS1iJpM_4ZYFp62mia2xQ': {'UCcu9Kwg5dVHqiycXC2G3aIQ': 1, 'UC57XAjJ04TY8gNxOWf-Sy0Q': 1, 'UC2etEuPIfohP4P53wM0KImA': 1}, 'UCOtbyVMZAlyUrMbP-vEpxJg': {'UCqNkLlC0jLlBV-E8QlXX05w': 1}, 'UCtBveJI6Ff3U2s12sOxa4wg': {'UCfyUZnb0-hDHlvwQZgwYLug': 1, 'UC9-JPibGOeaAx65Mh0J1zxw': 1}, 'UCAuUUnT6oDeKwE6v1NGQxug': {'UCpClzicOunVBHqa8E0eSXQg': 1, 'UCPV7CnIxSz3AnqIDVE3cMAw': 1}, 'UC56_hOqEtBqHwnVNBzOWj-A': {'UCcu9Kwg5dVHqiycXC2G3aIQ': 2, 'UC57XAjJ04TY8gNxOWf-Sy0Q': 2, 'UC2etEuPIfohP4P53wM0KImA': 2}, 'UCAR76PvwLHcHqnbqFIos_Xg': {'UCNFXlcU1Q0fvnYIeHhJuEHA': 1}, 'UCzxn731KM8sfH_LS7-ekbTg': {'UC0YIbCZJoYV1BeZ5qHDIJyQ': 1}, 'UCBvrgT7nHO680B3VPJOjhJA': {'UCiprSockAgpXf8g_XzEmi2Q': 1}, 'UCEI44xNfQmAukxMf1kW8d5g': {'UC-j9NRGq1F0xRA3MIHtV0Vg': 1}, 'UCwcH94eG9YYAn1G2nfw3j-w': {'UCjdp7RSV0XtSztE83Sfnjsg': 1, 'UCRtjI1RBWrVXuXBS2LC9o3g': 1}, 'UCqRSlH24d49U9fQPlXCubDg': {'UCUbJB5gjStcY2p9DBC7GLSQ': 1}, 'UCzpv5GkSbYqkFdC_lOOi4aQ': {'UCOiehjcbLHuDrlDZA2JpyCA': 1}, 'UCGTl_sQxago30b5vfoMomCg': {'UCMNuf0lPbe7nOBeHAGOo3NQ': 1}, 'UCS0kA-D1M87dDfkWRl_DLJA': {'UCqnGgTN0ajGp0LaoKkyxAxA': 1}}
