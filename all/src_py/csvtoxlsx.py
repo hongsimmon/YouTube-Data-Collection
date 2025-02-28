@@ -4,7 +4,7 @@ import os
 
 # Define paths
 data_path = '../data/'
-csv_file_path = f"{data_path}data_csv/videos_detail_animals_20241015.csv"
+csv_file_path = f"{data_path}data_csv/animals_videos_detail.csv"
 output_xlsx_path = f"{data_path}data_csv/samples/animals_sample.xlsx"
 
 # Make sure the output directory exists
