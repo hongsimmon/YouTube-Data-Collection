@@ -1,0 +1,646 @@
+
+Selected index 143211
+Row data: video_id='gypsescX1aw', title='Fittings are a Family Affair'
+Video details preview: Fittings are a Family Affair Devale & Kay Kay get all the boys fitted for their appearance on the Lo...
+Channel: UCWllU1xrw195H8cKn3oE86A, Collaborator: Devale, Collaborator ID: UCZllk03iZfiidxlwIXCSbKw, video id: gypsescX1aw
+New link added: UCWllU1xrw195H8cKn3oE86A and UCZllk03iZfiidxlwIXCSbKw
+Number of channels (nodes) in network: 0
+Processed iteration 1: video gypsescX1aw (index 143211)
+
+Selected index 135763
+Row data: video_id='FfEdzjzw_lo', title='Where are you from?🇺🇸🇧🇷🇧🇩🇮🇳🇨🇦🇯🇵🇬🇧🇲🇽🇹🇷🇦🇺🇲🇾🇰🇷🇳🇴🇿🇦🇩🇪🇵🇱🇸🇬🇱🇰'
+Video details preview: Where are you from?🇺🇸🇧🇷🇧🇩🇮🇳🇨🇦🇯🇵🇬🇧🇲🇽🇹🇷🇦🇺🇲🇾🇰🇷🇳🇴🇿🇦🇩🇪🇵🇱🇸🇬🇱🇰 ...
+Skipping host channel match:  for channel joshua carter
+Processed iteration 2: video FfEdzjzw_lo (index 135763)
+
+Selected index 45877
+Row data: video_id='bQ7uNyrerRg', title='Black Culture Has Been Infiltrated'
+Video details preview: Black Culture Has Been Infiltrated ...
+Skipping host channel match:  for channel candace owens
+Processed iteration 3: video bQ7uNyrerRg (index 45877)
+
+Selected index 147763
+Row data: video_id='aAixxgjwG0M', title='100pc Disposable Salon Chair + Bed Sheets AVAILABLE NOW! (Link in my Bio)💞'
+Video details preview: 100pc Disposable Salon Chair + Bed Sheets AVAILABLE NOW! (Link in my Bio)💞 ✨LINK✨
+
+💞100pcs Disposabl...
+Skipping host channel match:  for channel easy breezie
+Processed iteration 4: video aAixxgjwG0M (index 147763)
+
+Selected index 97448
+Row data: video_id='mamAT7n_jNU', title='made it home in almost one piece 🤣'
+Video details preview: made it home in almost one piece 🤣 #bike #cycling #cctv #fails #shorts
+
+►►► Submit your videos for t...
+Skipping host channel match:  for channel failarmy 2.0
+Processed iteration 5: video mamAT7n_jNU (index 97448)
+
+Selected index 148864
+Row data: video_id='zMCLMfaG7CQ', title='I'm Back :)'
+Video details preview: I'm Back :) ...
+Skipping host channel match:  for channel octopimp
+Processed iteration 6: video zMCLMfaG7CQ (index 148864)
+
+Selected index 47942
+Row data: video_id='B75ijmSg1E8', title='#MarioBezares impone RESPETO por su gata a #ArathDeLaTorre #LaCasaDeLosFamososMx'
+Video details preview: #MarioBezares impone RESPETO por su gata a #ArathDeLaTorre #LaCasaDeLosFamososMx Suscríbete a #ViX p...
+Processed iteration 7: video B75ijmSg1E8 (index 47942)
+
+Selected index 33518
+Row data: video_id='EfsjvHcUorU', title='Put me to bed! 😅😂'
+Video details preview: Put me to bed! 😅😂 ...
+Skipping host channel match:  for channel parents child
+Processed iteration 8: video EfsjvHcUorU (index 33518)
+
+Selected index 140193
+Row data: video_id='JHeMXU_IdrM', title='Obscure Patrick Star Quotes that live in my head rent free'
+Video details preview: Obscure Patrick Star Quotes that live in my head rent free https://linktr.ee/koreanbeef27
+
+#funny #f...
+Skipping host channel match:  for channel koreanbeef27
+Processed iteration 9: video JHeMXU_IdrM (index 140193)
+
+Selected index 140758
+Row data: video_id='6-rPZL-Q_ho', title='OVERRATED $25 LONGHORN LAMB CHOPS?!! Hilarious Food Review | Funny Freestyle'
+Video details preview: OVERRATED $25 LONGHORN LAMB CHOPS?!! Hilarious Food Review | Funny Freestyle #rollitupk #comedy #foo...
+Skipping host channel match:  for channel k’ hood
+Processed iteration 10: video 6-rPZL-Q_ho (index 140758)
+
+Selected index 143489
+Row data: video_id='CqtZyWQ5cqk', title='Lena - しんきろうの愛 (Ôi tình yêu thật điêu) | A day in Japan'
+Video details preview: Lena - しんきろうの愛 (Ôi tình yêu thật điêu) | A day in Japan Lena - しんきろうの愛 (Ôi tình yêu thật điêu) | A d...
+Skipping host channel match:  for channel lena official
+Processed iteration 11: video CqtZyWQ5cqk (index 143489)
+
+Selected index 58937
+Row data: video_id='4F8XAZAI4xg', title='Dame tu Cosita and Frozen Elsa - Vampire KISS'
+Video details preview: Dame tu Cosita and Frozen Elsa - Vampire KISS for more video click the link below!
+http://www.youtub...
+Skipping host channel match:  for channel fazz160
+Processed iteration 12: video 4F8XAZAI4xg (index 58937)
+
+Selected index 86974
+Row data: video_id='jKxJGaqdpW4', title='Big fails 😂🤣🤣 #viral #shorts #funny #fails'
+Error getting details for video ID jKxJGaqdpW4: list index out of range
+Video details preview: {}...
+Error getting host channel details for video jKxJGaqdpW4: list index out of range
+Processed iteration 13: video jKxJGaqdpW4 (index 86974)
+
+Selected index 65167
+Row data: video_id='H1BGbB0MAZ4', title='Se les cayo el Techo a los Albañiles en plena construcción'
+Video details preview: Se les cayo el Techo a los Albañiles en plena construcción ...
+Skipping host channel match:  for channel oscar mel
+Processed iteration 14: video H1BGbB0MAZ4 (index 65167)
+
+Selected index 32878
+Row data: video_id='Xx2NQJrwgNo', title='The Dub Bros - Ep. 2'
+Video details preview: The Dub Bros - Ep. 2 Support the stream: https://streamlabs.com/klrproductions...
+Channel: UCZpvLeZDtm8mmmvwgBrNVyg, Collaborator: The Dub Bros, Collaborator ID: UCfgtkf7rKx9DKxHQoLz5vXg, video id: Xx2NQJrwgNo
+New link added: UCZpvLeZDtm8mmmvwgBrNVyg and UCfgtkf7rKx9DKxHQoLz5vXg
+Number of channels (nodes) in network: 0
+Processed iteration 15: video Xx2NQJrwgNo (index 32878)
+
+Selected index 68761
+Row data: video_id='WBPXatWqjV0', title='Thor Slams'
+Video details preview: Thor Slams Hulk,Thor & Bugs meme mashup #memes...
+Skipping host channel match:  for channel leo koutakis
+Processed iteration 16: video WBPXatWqjV0 (index 68761)
+
+Selected index 66762
+Row data: video_id='0B2HHGiJZC0', title='😱😱😱'
+Video details preview: 😱😱😱 ...
+Skipping host channel match:  for channel kris diamond
+Processed iteration 17: video 0B2HHGiJZC0 (index 66762)
+
+Selected index 1708
+Row data: video_id='ZNe4HMN5xRs', title='DON'T BREATHE! 😤❌ #shorts *CAN YOU MAKE IT TO THE END!?*'
+Error getting details for video ID ZNe4HMN5xRs: list index out of range
+Video details preview: {}...
+Error getting host channel details for video ZNe4HMN5xRs: list index out of range
+Processed iteration 18: video ZNe4HMN5xRs (index 1708)
+
+Selected index 115226
+Row data: video_id='qkzOpuazQT0', title='Minha vingança na brincadeira do jogo do soquinho'
+Video details preview: Minha vingança na brincadeira do jogo do soquinho ...
+Skipping host channel match:  for channel italianinho global
+Processed iteration 19: video qkzOpuazQT0 (index 115226)
+
+Selected index 142119
+Row data: video_id='meh5OhoXSQI', title='Painting GIANT vs TINY Art Challenge!'
+Video details preview: Painting GIANT vs TINY Art Challenge! Subscribe To Our Other Channels!
+LOL Podcast: https://youtube....
+Too many collaborators in video meh5OhoXSQI: ['Cash and Maverick', 'Cash and Katie', 'Ky and Tie', 'Harper', 'ZHCYT', 'Kate Marie', 'Maverick and Kenzie']
+Processed iteration 20: video meh5OhoXSQI (index 142119)
+
+Selected index 13829
+Row data: video_id='ufULSJoXte0', title='Life Doodles | Pepper and popcorn, paints 😂#lifedoodles #shorts #doodle #animation #doodles'
+Video details preview: Life Doodles | Pepper and popcorn, paints 😂#lifedoodles #shorts #doodle #animation #doodles For Shor...
+Skipping host channel match:  for channel life doodles short
+Processed iteration 21: video ufULSJoXte0 (index 13829)
+
+Selected index 46851
+Row data: video_id='qKNl460jpM4', title='EN VIVO: Nicola Porcella REVELA detalles de Soltero Cotizado, su nuevo reality'
+Video details preview: EN VIVO: Nicola Porcella REVELA detalles de Soltero Cotizado, su nuevo reality Nicola Porcella prota...
+Processed iteration 22: video qKNl460jpM4 (index 46851)
+
+Selected index 120402
+Row data: video_id='-4E-_BmMFDU', title='The Wishing Stone #animation #flipnote #memes'
+Video details preview: The Wishing Stone #animation #flipnote #memes I could recognize one anywhere!!!...
+Skipping host channel match:  for channel zane little
+Processed iteration 23: video -4E-_BmMFDU (index 120402)
+
+Selected index 44070
+Row data: video_id='1m5ZWezDVs0', title='41 (Kyle Richh Jenn Carter & Tata ) Meet Akademiks. Talks NYC Drill New Wave, Ice Spice, Nicki Minaj'
+Video details preview: 41 (Kyle Richh Jenn Carter & Tata ) Meet Akademiks. Talks NYC Drill New Wave, Ice Spice, Nicki Minaj...
+Processed iteration 24: video 1m5ZWezDVs0 (index 44070)
+
+Selected index 55270
+Row data: video_id='bCE3vfeyS6M', title='Woman Locks her Family OUT OF THE HOUSE?!?'
+Video details preview: Woman Locks her Family OUT OF THE HOUSE?!? Keep sending me your submissions (https://www.reddit.com/...
+Skipping host channel match:  for channel rebecca rogers 
+Processed iteration 25: video bCE3vfeyS6M (index 55270)
+
+Selected index 49885
+Row data: video_id='-t7MPQNj97A', title='Mario CRÍTICA la ACTITUD de Mariana Echeverría 😱 #LaCasaDeLosFamososMX'
+Video details preview: Mario CRÍTICA la ACTITUD de Mariana Echeverría 😱 #LaCasaDeLosFamososMX Suscríbete a #ViX para ver el...
+Channel: UCRZSTf9laa2wkHPOaiOoldA, Collaborator: Adrián Marcelo, Collaborator ID: UCZws69iVZXGSIY4D-WulZ7g, video id: -t7MPQNj97A
+New link added: UCRZSTf9laa2wkHPOaiOoldA and UCZws69iVZXGSIY4D-WulZ7g
+Number of channels (nodes) in network: 0
+Channel: UCRZSTf9laa2wkHPOaiOoldA, Collaborator: Mariana Echeverría, Collaborator ID: UCgnuNyFQg_fVByCvem0qbGw, video id: -t7MPQNj97A
+New link added: UCRZSTf9laa2wkHPOaiOoldA and UCgnuNyFQg_fVByCvem0qbGw
+Number of channels (nodes) in network: 0
+Processed iteration 26: video -t7MPQNj97A (index 49885)
+
+Selected index 157559
+Row data: video_id='3AIb-xBB0wQ', title='طلعوا عليه بالعربيات وضربوا عليه نار وهدوا سور الأرض بتاعته .. شوفوا عمل معاهم ايه'
+Video details preview: طلعوا عليه بالعربيات وضربوا عليه نار وهدوا سور الأرض بتاعته .. شوفوا عمل معاهم ايه اتضرب عليه نار وه...
+Processed iteration 27: video 3AIb-xBB0wQ (index 157559)
+
+Selected index 32298
+Row data: video_id='UqyV210hxV4', title='Money Expert: "I Built An $80M Business In 48 Hrs w/ $48" (ANYONE Can Do THIS!) | Noah Kagan'
+Video details preview: Money Expert: "I Built An $80M Business In 48 Hrs w/ $48" (ANYONE Can Do THIS!) | Noah Kagan 💰 Get m...
+Channel: UCKsP3v2JeT2hWI_HzkxWiMA, Collaborator: Noah Kagan, Collaborator ID: UCpDJhzJBCRGg_-NcSTzuaaQ, video id: UqyV210hxV4
+New link added: UCKsP3v2JeT2hWI_HzkxWiMA and UCpDJhzJBCRGg_-NcSTzuaaQ
+Number of channels (nodes) in network: 0
+Processed iteration 28: video UqyV210hxV4 (index 32298)
+
+Selected index 52244
+Row data: video_id='sE_6rpPjuaM', title='El grito que pegó Sandra al haber caído a las profundidades de #QuienCaera'
+Video details preview: El grito que pegó Sandra al haber caído a las profundidades de #QuienCaera Suscríbete: https://bit.l...
+Skipping host channel match:  for channel el 5
+Processed iteration 29: video sE_6rpPjuaM (index 52244)
+
+Selected index 12345
+Row data: video_id='CP9ycPkT81s', title='Goodland | Grater and cheese 🤪  #goodland #shorts #doodles #doodlesart'
+Video details preview: Goodland | Grater and cheese 🤪  #goodland #shorts #doodles #doodlesart Goodland | Grater and cheese ...
+Skipping host channel match:  for channel goodland short
+Processed iteration 30: video CP9ycPkT81s (index 12345)
+
+Selected index 105155
+Row data: video_id='rBRUJJDhoCA', title='CHÁ #chá #curiosidades #humor #comedia'
+Video details preview: CHÁ #chá #curiosidades #humor #comedia ...
+Skipping host channel match:  for channel mister emerson
+Processed iteration 31: video rBRUJJDhoCA (index 105155)
+
+Selected index 160177
+Row data: video_id='BQsDGDzefHk', title='Arm Wrestling'
+Video details preview: Arm Wrestling Sometimes you have to push your limits to conquer challenges. I guess you could say Le...
+Skipping host channel match:  for channel crispy toast
+Processed iteration 32: video BQsDGDzefHk (index 160177)
+
+Selected index 58323
+Row data: video_id='-fiNalVwsEc', title='You can NEVER eat around kids 😂#shorts #viralvideo #funny'
+Video details preview: You can NEVER eat around kids 😂#shorts #viralvideo #funny ...
+Skipping host channel match:  for channel austin white shorts
+Processed iteration 33: video -fiNalVwsEc (index 58323)
+
+Selected index 52913
+Row data: video_id='lY6VWM7Z87Y', title='We failed as parents #viral #comedy #funny @itskleoniki @montygeercomedy'
+Video details preview: We failed as parents #viral #comedy #funny @itskleoniki @montygeercomedy ...
+Channel: UCQOidFKQBMvLXk7PxGBXWyA, Collaborator: montygeercomedy, Collaborator ID: UCE-fgG2rK5qJYMssVbmrt8g, video id: lY6VWM7Z87Y
+New link added: UCQOidFKQBMvLXk7PxGBXWyA and UCE-fgG2rK5qJYMssVbmrt8g
+Number of channels (nodes) in network: 0
+Processed iteration 34: video lY6VWM7Z87Y (index 52913)
+
+Selected index 28060
+Row data: video_id='r2GZi_i_q9k', title='Phone Falls While Woman Tries to Film Herself - 1513985'
+Video details preview: Phone Falls While Woman Tries to Film Herself - 1513985 This woman attempted to film herself at a ga...
+Skipping host channel match:  for channel rm videos
+Processed iteration 35: video r2GZi_i_q9k (index 28060)
+
+Selected index 114763
+Row data: video_id='vmDla9HGJZU', title='Obrigado Jesus!'
+Video details preview: Obrigado Jesus! ...
+Skipping host channel match:  for channel italianinho global
+Processed iteration 36: video vmDla9HGJZU (index 114763)
+
+Selected index 130822
+Row data: video_id='8BSCW8QF58c', title='How To Know He's The One - Emily James'
+Video details preview: How To Know He's The One - Emily James Watch Emily James: Late to the Party on Amazon Prime Video, A...
+Skipping host channel match:  for channel comedy dynamics
+Processed iteration 37: video 8BSCW8QF58c (index 130822)
+
+Selected index 2726
+Row data: video_id='V581rYL9H9s', title='It's been too long😩😂'
+Video details preview: It's been too long😩😂 ...
+Skipping host channel match:  for channel brent rivera
+Processed iteration 38: video V581rYL9H9s (index 2726)
+
+Selected index 79994
+Row data: video_id='Q0D3OHCZmBA', title='I TESTED A SCREAMING PAPER GLIDER LIFE HACK? (is this the best paper glider ever?) #Shorts'
+Video details preview: I TESTED A SCREAMING PAPER GLIDER LIFE HACK? (is this the best paper glider ever?) #Shorts ...
+Skipping host channel match:  for channel dougmar
+Processed iteration 39: video Q0D3OHCZmBA (index 79994)
+
+Selected index 110866
+Row data: video_id='mTGBqeZrhsM', title='Women's Club 201'
+Video details preview: Women's Club 201 http://www.toms.am/am/ticket/4174
+
+https://allcell.am
+
+👉🏻 https://instagram.com/mat...
+Too many collaborators in video mTGBqeZrhsM: ['zarasahakyan_official', 'matevosyan.maria', 'charents_official', 'lili.morto.official', 'womens_club_official', 'gorbarseghyan', 'ponchispiryan', 'ziroyan__', 'luizanersisian', 'tomapetrossian', 'sona_matevosian']
+Processed iteration 40: video mTGBqeZrhsM (index 110866)
+
+Selected index 93869
+Row data: video_id='LJiqrtT3iyI', title='Mobile Homes in California be like🤣 #shorts #thaddboii #iowa #california #michigan #texas'
+Video details preview: Mobile Homes in California be like🤣 #shorts #thaddboii #iowa #california #michigan #texas ...
+Skipping host channel match:  for channel thadd boii
+Processed iteration 41: video LJiqrtT3iyI (index 93869)
+
+Selected index 141982
+Row data: video_id='tGVc3Yfsjgg', title='Amora Wakes Up SCREAMING From A TERRIFYING NIGHTMARE 😱'
+Video details preview: Amora Wakes Up SCREAMING From A TERRIFYING NIGHTMARE 😱 In today's spine-tingling episode, "Amora Wak...
+Processed iteration 42: video tGVc3Yfsjgg (index 141982)
+
+Selected index 155282
+Row data: video_id='Zr7SCEwoX-s', title='Frank tells Sophia the Boss he messed up the money!'
+Video details preview: Frank tells Sophia the Boss he messed up the money! -
+Wayne Colley, better known as “Kountry Wayne”,...
+Skipping host channel match: Kountry Wayne for channel kountry wayne
+Processed iteration 43: video Zr7SCEwoX-s (index 155282)
+
+Selected index 108234
+Row data: video_id='5rdY5h5GibQ', title='What would you have done in this situation? #shorts #teachersoffdutypodcast'
+Video details preview: What would you have done in this situation? #shorts #teachersoffdutypodcast Grab your tickets for th...
+Skipping host channel match:  for channel teachers off duty podcast
+Processed iteration 44: video 5rdY5h5GibQ (index 108234)
+
+Selected index 36607
+Row data: video_id='TgHwyoLR_J0', title='Kill with a bone #shorts'
+Video details preview: Kill with a bone #shorts Cartoon Parody by - @Frame Order
+
+► SUBSCRIBE to Bagi Bagi Channel: 👉 https...
+Skipping host channel match: Bagi Bagi for channel bagi bagi shorts
+Processed iteration 45: video TgHwyoLR_J0 (index 36607)
+
+Selected index 56372
+Row data: video_id='6x1J_Bxv-wY', title='Single Male in the Wild #shorts'
+Video details preview: Single Male in the Wild #shorts A not-so rare species 👀 #shorts 
+
+MERCH: https://manitowocminute.com...
+Skipping host channel match:  for channel charlie berens
+Processed iteration 46: video 6x1J_Bxv-wY (index 56372)
+
+Selected index 58616
+Row data: video_id='HvxURXIHKmA', title='Why Asians Seem To Always Get Picked On'
+Video details preview: Why Asians Seem To Always Get Picked On Purchase SMÁLÀ here: http://smalasauce.com 
+Purchase SMÁLÀ o...
+Skipping host channel match:  for channel fung bros.
+Processed iteration 47: video HvxURXIHKmA (index 58616)
+
+Selected index 55013
+Row data: video_id='25f_ESGtY24', title='Were these parents in the wrong?!'
+Video details preview: Were these parents in the wrong?! ...
+Skipping host channel match:  for channel rebecca rogers 
+Processed iteration 48: video 25f_ESGtY24 (index 55013)
+
+Selected index 17853
+Row data: video_id='tp0ZpqnI_UI', title='When someone steps on your shoes (pt.2) 😂'
+Error getting details for video ID tp0ZpqnI_UI: list index out of range
+Video details preview: {}...
+Error getting host channel details for video tp0ZpqnI_UI: list index out of range
+Processed iteration 49: video tp0ZpqnI_UI (index 17853)
+
+Selected index 139745
+Row data: video_id='0wNifnyCU14', title='Not at all scared 👍🥰😅😅😅#asiyka family'
+Video details preview: Not at all scared 👍🥰😅😅😅#asiyka family ...
+Skipping host channel match:  for channel like asiya 
+Processed iteration 50: video 0wNifnyCU14 (index 139745)
+
+Selected index 59394
+Row data: video_id='YdHQqzILNNQ', title='Toilet Seat EXPL0Sl0N Prank 💥'
+Video details preview: Toilet Seat EXPL0Sl0N Prank 💥 ...
+Skipping host channel match:  for channel lance210
+Processed iteration 51: video YdHQqzILNNQ (index 59394)
+
+Selected index 52015
+Row data: video_id='kRpoumUWr8w', title='Adán gusta de salir con sus ex suegras #LaCajaDeLosSecretos'
+Video details preview: Adán gusta de salir con sus ex suegras #LaCajaDeLosSecretos La Caja de los Secretos, de lunes a vier...
+Skipping host channel match:  for channel el 5
+Processed iteration 52: video kRpoumUWr8w (index 52015)
+
+Selected index 148638
+Row data: video_id='MfI3xX2iuCM', title='Money can free you from many consequences.'
+Video details preview: Money can free you from many consequences. Join us on Discord! Link in bio!
+noPanicButton...
+Skipping host channel match:  for channel no panic button
+Processed iteration 53: video MfI3xX2iuCM (index 148638)
+
+Selected index 46696
+Row data: video_id='nSy_sx0xebs', title='La ÚLTIMA celebración de Mar, juntos #LaCasaDeLosFamososMx'
+Video details preview: La ÚLTIMA celebración de Mar, juntos #LaCasaDeLosFamososMx Suscríbete a #ViX para ver el 24/7, ve la...
+Skipping host channel match:  for channel el 5
+Processed iteration 54: video nSy_sx0xebs (index 46696)
+
+Selected index 57154
+Row data: video_id='shpmq0MOL2w', title='Not the wifi password 😭'
+Video details preview: Not the wifi password 😭 ...
+Skipping host channel match:  for channel isaacsamz
+Processed iteration 55: video shpmq0MOL2w (index 57154)
+
+Selected index 9238
+Row data: video_id='T0nQSXtFYrY', title='Oh no, Infowars is dead. But now how will we know which vaccines turn you gay?'
+Video details preview: Oh no, Infowars is dead. But now how will we know which vaccines turn you gay? ...
+Skipping host channel match:  for channel the daily show
+Processed iteration 56: video T0nQSXtFYrY (index 9238)
+
+Selected index 7767
+Row data: video_id='LoeAjQuXCM0', title='#minecraft movie costumes be like'
+Video details preview: #minecraft movie costumes be like #shorts #minecraftmovie #skit #asian #parody #comedy #sketch #emot...
+Skipping host channel match:  for channel steven he
+Processed iteration 57: video LoeAjQuXCM0 (index 7767)
+
+Selected index 139404
+Row data: video_id='7EmU6IHxZh0', title='Wow, super🤙✅😍❤️💕#asiyka #funny'
+Video details preview: Wow, super🤙✅😍❤️💕#asiyka #funny ...
+Skipping host channel match:  for channel like asiya 
+Processed iteration 58: video 7EmU6IHxZh0 (index 139404)
+
+Selected index 61082
+Row data: video_id='sLdivy155GU', title='Talking Tom Monkey Business - Talking Tom In Real Life |Compilation of Talking Tom's Funniest Scenes'
+Video details preview: Talking Tom Monkey Business - Talking Tom In Real Life |Compilation of Talking Tom's Funniest Scenes...
+Channel: UC9rOKQJH44PTUMYPxjQZ3MQ, Collaborator: Talking Tom, Collaborator ID: UCm3hAp1m1xlAz0ve_EKAo4g, video id: sLdivy155GU
+New link added: UC9rOKQJH44PTUMYPxjQZ3MQ and UCm3hAp1m1xlAz0ve_EKAo4g
+Number of channels (nodes) in network: 0
+Processed iteration 59: video sLdivy155GU (index 61082)
+
+Selected index 64278
+Row data: video_id='ffEGadsgQpw', title='Bert Kreischer Got in Shape Just So He Could Keep Drinking'
+Video details preview: Bert Kreischer Got in Shape Just So He Could Keep Drinking ...
+Skipping host channel match:  for channel ymh studios
+Processed iteration 60: video ffEGadsgQpw (index 64278)
+
+Selected index 113554
+Row data: video_id='lXcI2J00uuk', title='CUANTO MAS AVAILABLE IN ALL DIGITAL PLATFORMS SPOTIFY PANDORA TIDAL ITUNES APPLE MUSIC NEW'
+Video details preview: CUANTO MAS AVAILABLE IN ALL DIGITAL PLATFORMS SPOTIFY PANDORA TIDAL ITUNES APPLE MUSIC NEW CUANTO MA...
+Skipping host channel match:  for channel josue thesis
+Processed iteration 61: video lXcI2J00uuk (index 113554)
+
+Selected index 102607
+Row data: video_id='BfvyDsF__ps', title='Tom mime SeaWorld every second counts to make you smile 😀 #seaworldmime'
+Video details preview: Tom mime SeaWorld every second counts to make you smile 😀 #seaworldmime ...
+Skipping host channel match:  for channel eryka travel
+Processed iteration 62: video BfvyDsF__ps (index 102607)
+
+Selected index 80600
+Row data: video_id='5R3MEbD32wQ', title='When THIS WILD GIRL FIGHTS YOUR SISTER!'
+Video details preview: When THIS WILD GIRL FIGHTS YOUR SISTER! Welcome back to the WILD ASL world of Victorious! The hit Ni...
+Skipping host channel match:  for channel emazingeric4ever
+Processed iteration 63: video 5R3MEbD32wQ (index 80600)
+
+Selected index 81128
+Row data: video_id='nVETrfVzuis', title='Our the Most FUNNY Video? 😱😨😲'
+Video details preview: Our the Most FUNNY Video? 😱😨😲 ✅ Subscribe to the channel and watch our videos!
+
+Hi! On our channel M...
+Processed iteration 64: video nVETrfVzuis (index 81128)
+
+Selected index 158391
+Row data: video_id='9Onw8RGXdEw', title='Christian Singles'
+Video details preview: Christian Singles Wherever your date has to walk to for his little God rod to escape his internal sh...
+Skipping host channel match:  for channel 5secondfilms
+Processed iteration 65: video 9Onw8RGXdEw (index 158391)
+
+Selected index 82410
+Row data: video_id='dKaU4jUr7nY', title='MAGICAL RAINBOW DIY 🌈 #iampolar'
+Video details preview: MAGICAL RAINBOW DIY 🌈 #iampolar ...
+Processed iteration 66: video dKaU4jUr7nY (index 82410)
+
+Selected index 69779
+Row data: video_id='4Kv_NYJ5H04', title='What video is the best?❤️🩷💜🩵'
+Video details preview: What video is the best?❤️🩷💜🩵 ...
+Skipping host channel match:  for channel crazy nora
+Processed iteration 67: video 4Kv_NYJ5H04 (index 69779)
+
+Selected index 24627
+Row data: video_id='2bNWy7NHxuU', title='Mother of the year 😂😂'
+Video details preview: Mother of the year 😂😂 ...
+Skipping host channel match:  for channel innart life
+Processed iteration 68: video 2bNWy7NHxuU (index 24627)
+
+Selected index 80664
+Row data: video_id='k-vvdid_G-o', title='When your Little Brother HOOKS UP with the HOTTEST GIRL AT SCHOOL 💀😂 #dharmann #shorts'
+Video details preview: When your Little Brother HOOKS UP with the HOTTEST GIRL AT SCHOOL 💀😂 #dharmann #shorts ...
+Skipping host channel match:  for channel emazingeric4ever
+Processed iteration 69: video k-vvdid_G-o (index 80664)
+
+Selected index 35336
+Row data: video_id='LH7rTbbNQQk', title='Which girl is better?❤️‍🔥1,2,3 or ..?🍑'
+Video details preview: Which girl is better?❤️‍🔥1,2,3 or ..?🍑 ...
+Skipping host channel match:  for channel poli moli
+Processed iteration 70: video LH7rTbbNQQk (index 35336)
+
+Selected index 32327
+Row data: video_id='zp4GMQCkjyE', title='Stepping Into an Abundant Identity...'
+Video details preview: Stepping Into an Abundant Identity... 🔔 Subscribe for more great content: https://www.youtube.com/le...
+Skipping host channel match:  for channel lewis howes
+Processed iteration 71: video zp4GMQCkjyE (index 32327)
+
+Selected index 58669
+Row data: video_id='_JKROvoQRHU', title='Is Bronny James Ruining The NBA? (Honest Take)'
+Video details preview: Is Bronny James Ruining The NBA? (Honest Take) Order your SMÁLÀ Chili Oil here: http://smalasauce.co...
+Skipping host channel match:  for channel fung bros.
+Processed iteration 72: video _JKROvoQRHU (index 58669)
+
+Selected index 107605
+Row data: video_id='XcU5XehChQw', title='If I Die, I Turn Into a Scared Dog'
+Video details preview: If I Die, I Turn Into a Scared Dog ...
+Skipping host channel match:  for channel jakesterguy
+Processed iteration 73: video XcU5XehChQw (index 107605)
+
+Selected index 109213
+Row data: video_id='xT33NEkDFL0', title='When your RICH friend picks you up'
+Video details preview: When your RICH friend picks you up Mfs got personal drivers and shit...
+Skipping host channel match:  for channel edward so
+Processed iteration 74: video xT33NEkDFL0 (index 109213)
+
+Selected index 75
+Row data: video_id='22PZP1dedPE', title='Why Is He Unhappy…?'
+Video details preview: Why Is He Unhappy…? ...
+Skipping host channel match:  for channel alan's universe
+Processed iteration 75: video 22PZP1dedPE (index 75)
+
+Selected index 122370
+Row data: video_id='gSX8JhIs1ac', title='3RD ROUND ZAN 2-NA  PART - 1# J&M SOFA COMEDIAN SEARCH 2024'
+Video details preview: 3RD ROUND ZAN 2-NA  PART - 1# J&M SOFA COMEDIAN SEARCH 2024 He video hi fth official phallna lo chua...
+Channel: UClyE6HMJeBaShlhdYbzoyEQ, Collaborator: Zosangzuala, Collaborator ID: UCoqKQ94Us6xtoFD8NLIqZEw, video id: gSX8JhIs1ac
+New link added: UClyE6HMJeBaShlhdYbzoyEQ and UCoqKQ94Us6xtoFD8NLIqZEw
+Number of channels (nodes) in network: 0
+Processed iteration 76: video gSX8JhIs1ac (index 122370)
+
+Selected index 11995
+Row data: video_id='6Rpih24Xxg4', title='Goodland | Wake up! 😂 #goodland #shorts #doodles #doodlesart'
+Video details preview: Goodland | Wake up! 😂 #goodland #shorts #doodles #doodlesart Goodland | Wake up!
+
+#goodland #doodle ...
+Skipping host channel match:  for channel goodland short
+Processed iteration 77: video 6Rpih24Xxg4 (index 11995)
+
+Selected index 146373
+Row data: video_id='R47JMT2TAIg', title='On the road to good health'
+Video details preview: On the road to good health Funny videos — try not to laugh, smile or grin while watching comedian Vi...
+Skipping host channel match:  for channel vic dibitetto
+Processed iteration 78: video R47JMT2TAIg (index 146373)
+
+Selected index 43567
+Row data: video_id='_sjZ7OvDpus', title='correct way to open a can'
+Video details preview: correct way to open a can Contact licensing@cowbelly.gg to license this video.
+
+Submitted by: https:...
+Processed iteration 79: video _sjZ7OvDpus (index 43567)
+
+Selected index 117465
+Row data: video_id='fcg7PHsci4Y', title='Não deixa eu estou vendo #shortvideo'
+Video details preview: Não deixa eu estou vendo #shortvideo ...
+Skipping host channel match:  for channel italianinho global
+Processed iteration 80: video fcg7PHsci4Y (index 117465)
+
+Selected index 32094
+Row data: video_id='7CSEZ9NIKSk', title='One of the Lies of Happiness | Dr. Daniel Amen'
+Video details preview: One of the Lies of Happiness | Dr. Daniel Amen 🔔 Subscribe for more great content: https://www.youtu...
+Processed iteration 81: video 7CSEZ9NIKSk (index 32094)
+
+Selected index 70674
+Row data: video_id='N47LTFwW6VA', title='Consagramos El Aceite'
+Video details preview: Consagramos El Aceite ...
+Skipping host channel match:  for channel pastor david rodriguez
+Processed iteration 82: video N47LTFwW6VA (index 70674)
+
+Selected index 150499
+Row data: video_id='-bpVKAi0eNk', title='Nick Callas never believed.'
+Video details preview: Nick Callas never believed. #comedy #shorts #standup
+
+Subscribe to 800 Pound Gorilla’s YouTube chann...
+Processed iteration 83: video -bpVKAi0eNk (index 150499)
+
+Selected index 4640
+Row data: video_id='1BEbiD_eS-E', title='Dakota Johnson on Her Viral 14-Hour Sleep Schedule, Madame Web and Saturday Night Live'
+Video details preview: Dakota Johnson on Her Viral 14-Hour Sleep Schedule, Madame Web and Saturday Night Live Dakota Johnso...
+Processed iteration 84: video 1BEbiD_eS-E (index 4640)
+
+Selected index 92012
+Row data: video_id='m2sWQoadrns', title='ЛУНА ВСЕЛЯЕТСЯ В ПАШУ 🥃 #натальнаякарта #дедищев #иванченко #журавлев #mediumquality #астрология'
+Video details preview: ЛУНА ВСЕЛЯЕТСЯ В ПАШУ 🥃 #натальнаякарта #дедищев #иванченко #журавлев #mediumquality #астрология ...
+Too many collaborators in video m2sWQoadrns: ['ПАША', 'иванченко', 'дедищев', 'ЛУНА', 'журавлев', 'натальнаякарта', 'mediumquality']
+Processed iteration 85: video m2sWQoadrns (index 92012)
+
+Selected index 136116
+Row data: video_id='OLZW6pq16Rg', title='What’s your favourite colour?❤️🤍🩵💚💜🧡💛💙🩷🤎🩶'
+Video details preview: What’s your favourite colour?❤️🤍🩵💚💜🧡💛💙🩷🤎🩶 ...
+Skipping host channel match:  for channel joshua carter
+Processed iteration 86: video OLZW6pq16Rg (index 136116)
+
+Selected index 140534
+Row data: video_id='civavTAxfqs', title='WRITE A SKETCH WITH ME - Episode 1'
+Video details preview: WRITE A SKETCH WITH ME - Episode 1 Join for early access to my videos!
+https://www.youtube.com/chann...
+Skipping host channel match:  for channel jake rasmussen
+Processed iteration 87: video civavTAxfqs (index 140534)
+
+Selected index 52275
+Row data: video_id='s_7Xz4H3_6M', title='#Yurem no logró vencer al Ruidómetro de #CeroRuido #Canal5'
+Video details preview: #Yurem no logró vencer al Ruidómetro de #CeroRuido #Canal5 Cero Ruido, de lunes a jueves 8:00 p.m. p...
+Processed iteration 88: video s_7Xz4H3_6M (index 52275)
+
+Selected index 63167
+Row data: video_id='4YOHxny0Nqk', title='They got magical boxes of chocolate cookies 🍪🍪'
+Video details preview: They got magical boxes of chocolate cookies 🍪🍪 ...
+Skipping host channel match:  for channel valja & maxim family
+Processed iteration 89: video 4YOHxny0Nqk (index 63167)
+
+Selected index 137968
+Row data: video_id='PTqQF0mtBwg', title='Ranking Your INSANE Bedrooms'
+Video details preview: Ranking Your INSANE Bedrooms TUNE IN LIVE https://www.twitch.tv/weest  
+JOIN THE DISCORD https://dis...
+Skipping host channel match:  for channel weest
+Processed iteration 90: video PTqQF0mtBwg (index 137968)
+
+Selected index 49889
+Row data: video_id='VPiZu8UlVKA', title='Cuarto Tierra se siente INSATISFECHO con su NOMINACIÓN 😳'
+Video details preview: Cuarto Tierra se siente INSATISFECHO con su NOMINACIÓN 😳 Tras haber salido dos tierras nominados, el...
+Skipping host channel match:  for channel el 5
+Processed iteration 91: video VPiZu8UlVKA (index 49889)
+
+Selected index 134472
+Row data: video_id='vJUN7JTM2DQ', title='🤯 Utah's Wild Laws: REALarious Reacts to the Beehive State's Strangest Statutes'
+Error getting details for video ID vJUN7JTM2DQ: list index out of range
+Video details preview: {}...
+Error getting host channel details for video vJUN7JTM2DQ: list index out of range
+Processed iteration 92: video vJUN7JTM2DQ (index 134472)
+
+Selected index 3790
+Row data: video_id='Tn8T5rOsi-0', title='WHERE?! #SEpathaMerkerson #MirandaRaeMayo #JasonBeghe #OneChicago #FallonTonight'
+Video details preview: WHERE?! #SEpathaMerkerson #MirandaRaeMayo #JasonBeghe #OneChicago #FallonTonight ...
+Channel: UC8-Th83bH_thdKZDJCrn88g, Collaborator: Miranda Rae Mayo, Collaborator ID: UCfSqv-7RYB2xZJK08h9KrDA, video id: Tn8T5rOsi-0
+New link added: UC8-Th83bH_thdKZDJCrn88g and UCfSqv-7RYB2xZJK08h9KrDA
+Number of channels (nodes) in network: 0
+Channel: UC8-Th83bH_thdKZDJCrn88g, Collaborator: Jason Beghe, Collaborator ID: UCQ8KoSoY5gyp5dieLvu1R8A, video id: Tn8T5rOsi-0
+New link added: UC8-Th83bH_thdKZDJCrn88g and UCQ8KoSoY5gyp5dieLvu1R8A
+Number of channels (nodes) in network: 0
+Processed iteration 93: video Tn8T5rOsi-0 (index 3790)
+
+Selected index 11059
+Row data: video_id='LYpDhk8hFSo', title='What girl do you like the most? 1,2 or 3?'
+Video details preview: What girl do you like the most? 1,2 or 3? ...
+Skipping host channel match:  for channel nora power
+Processed iteration 94: video LYpDhk8hFSo (index 11059)
+
+Selected index 41018
+Row data: video_id='-Igp_85WYYI', title='When you’re just a girl'
+Video details preview: When you’re just a girl When you’re just a girl 
+
+MUSIC STUFFS:
+Blip Stream Kevin MacLeod (incompete...
+Skipping host channel match:  for channel joshiiwuh
+Processed iteration 95: video -Igp_85WYYI (index 41018)
+
+Selected index 23141
+Row data: video_id='R11m1kbxPrM', title='NERD VS. POPULAR AT SCHOOL 🌈 MUST-TRY SCHOOL HACKS!'
+Video details preview: NERD VS. POPULAR AT SCHOOL 🌈 MUST-TRY SCHOOL HACKS! 💘LIKE, SHARE & SUBSCRIBE TO MY CHANNEL TO SUPPOR...
+Skipping host channel match:  for channel avocado couple live
+Processed iteration 96: video R11m1kbxPrM (index 23141)
+
+Selected index 129407
+Row data: video_id='S5w3qg-5TvE', title='When Demons Lie (Andreas Henneberg remix) #music #housemusic #techhouse #release #dance #viralvideo'
+Video details preview: When Demons Lie (Andreas Henneberg remix) #music #housemusic #techhouse #release #dance #viralvideo ...
+Skipping host channel match: PMX SoundZ for channel pmx soundz
+Processed iteration 97: video S5w3qg-5TvE (index 129407)
+
+Selected index 112509
+Row data: video_id='lgfm1HufgzQ', title='Dating is about patience 🤷🏻‍♂️🤷🏻‍♂️🤣 | Gianmarco Soresi | Stand Up Comedy Crowd Work'
+Video details preview: Dating is about patience 🤷🏻‍♂️🤷🏻‍♂️🤣 | Gianmarco Soresi | Stand Up Comedy Crowd Work More about Gian...
+Skipping host channel match: Gianmarco Soresi for channel gianmarco soresi
+Processed iteration 98: video lgfm1HufgzQ (index 112509)
+
+Selected index 33937
+Row data: video_id='ig1A_0-Ppc0', title='Grwm while being annoying'
+Video details preview: Grwm while being annoying ...
+Skipping host channel match:  for channel jayllnn
+Processed iteration 99: video ig1A_0-Ppc0 (index 33937)
+
+Selected index 11380
+Row data: video_id='9CjsG3evqg8', title='Queue for manicure, are they really kind?❤️☺️'
+Video details preview: Queue for manicure, are they really kind?❤️☺️ ...
+Skipping host channel match:  for channel nora power
+Processed iteration 100: video 9CjsG3evqg8 (index 11380)
