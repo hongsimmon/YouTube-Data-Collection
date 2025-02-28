@@ -1,0 +1,628 @@
+
+Selected index 22255
+Row data: video_id='qmKwEMLLggc', title='SpaceX successfully catches 20-story tall reusable Super Heavy booster at it's Starbase pad #shorts'
+Video details preview: SpaceX successfully catches 20-story tall reusable Super Heavy booster at it's Starbase pad #shorts ...
+Skipping host channel match: New York Post Sports for channel new york post
+Processed iteration 1: video qmKwEMLLggc (index 22255)
+
+Selected index 10729
+Row data: video_id='yYV1-vexC2w', title='Discovering the color-changing mushroom 👽'
+Video details preview: Discovering the color-changing mushroom 👽 😄 Sharing the wholesome moments from our pets, collaborato...
+Skipping host channel match: Shiba Cat for channel shiba cat
+Processed iteration 2: video yYV1-vexC2w (index 10729)
+
+Selected index 29768
+Row data: video_id='7rh2-R5ipeA', title='Yoshi is playing with a flower #shorts #petduck'
+Video details preview: Yoshi is playing with a flower #shorts #petduck ...
+Skipping host channel match:  for channel ducks_in_space
+Processed iteration 3: video 7rh2-R5ipeA (index 29768)
+
+Selected index 95567
+Row data: video_id='wyqunTqW_EE', title='…And Action  #shortsfeed #dogsofyoutube #doglover  #cutedogfox2024 #shortdogvideo #shorts'
+Video details preview: …And Action  #shortsfeed #dogsofyoutube #doglover  #cutedogfox2024 #shortdogvideo #shorts No action
+...
+Skipping host channel match:  for channel fox the cutest dog in the west
+Processed iteration 4: video wyqunTqW_EE (index 95567)
+
+Selected index 122932
+Row data: video_id='VoGuVLGICao', title='"Gatito Abandonado Rescatado: Un Nuevo Comienzo"#RescateDeGatos#GatitoAbandonado#NuevoComienzo'
+Video details preview: "Gatito Abandonado Rescatado: Un Nuevo Comienzo"#RescateDeGatos#GatitoAbandonado#NuevoComienzo ...
+Skipping host channel match:  for channel animalmundo
+Processed iteration 5: video VoGuVLGICao (index 122932)
+
+Selected index 23304
+Row data: video_id='y6mGjWgFxhY', title='Stranded astronauts could face further delays returning to Earth after SpaceX rockets grounded'
+Video details preview: Stranded astronauts could face further delays returning to Earth after SpaceX rockets grounded The t...
+Skipping host channel match:  for channel new york post
+Processed iteration 6: video y6mGjWgFxhY (index 23304)
+
+Selected index 15707
+Row data: video_id='mL5_AFed5tk', title='Expecting parent share the news with in-laws in the most adorable way'
+Video details preview: Expecting parent share the news with in-laws in the most adorable way We now they will remember and ...
+Skipping host channel match:  for channel rumble viral
+Processed iteration 7: video mL5_AFed5tk (index 15707)
+
+Selected index 65509
+Row data: video_id='3QhkpP4Smx8', title='Australian Parrots / Budgies beautiful Parrots #parrot #parrotlover #australianparrot #birds'
+Video details preview: Australian Parrots / Budgies beautiful Parrots #parrot #parrotlover #australianparrot #birds Pets 4 ...
+Processed iteration 8: video 3QhkpP4Smx8 (index 65509)
+
+Selected index 132381
+Row data: video_id='OuHky2XQ-YU', title='Animals Being Adorable 🤣😂 #funnyanimals #animalsfunny #pets #shorts'
+Video details preview: Animals Being Adorable 🤣😂 #funnyanimals #animalsfunny #pets #shorts Get ready to LOL with the funnie...
+Skipping host channel match:  for channel pet-fun 
+Processed iteration 9: video OuHky2XQ-YU (index 132381)
+
+Selected index 20876
+Row data: video_id='CvN74KXHXuE', title='My Puppies and Baby (and husband) Went to JAIL!!!'
+Video details preview: My Puppies and Baby (and husband) Went to JAIL!!! Subscribe for more videos!
+-----------------------...
+Skipping host channel match:  for channel lady and the blues
+Processed iteration 10: video CvN74KXHXuE (index 20876)
+
+Selected index 76033
+Row data: video_id='_fB16t4-lps', title='Training my Puppy & Mini Horse 🐴🐶 #shorts #horse #pony #equestrian #shortsvideo'
+Video details preview: Training my Puppy & Mini Horse 🐴🐶 #shorts #horse #pony #equestrian #shortsvideo ...
+Skipping host channel match:  for channel star point company
+Processed iteration 11: video _fB16t4-lps (index 76033)
+
+Selected index 153761
+Row data: video_id='03z2mmRrlAU', title='姜爷爷和睿宝辉宝打水仗，爷爷是真的在用心陪伴孙女长大。也许爷爷看到福宝玩水的视频，也想让自己和妹妹们体验福宝玩水的快乐吧！#大熊猫福宝#福宝和爷爷#睿宝辉宝#爱宝双胞胎#来这吸熊猫'
+Video details preview: 姜爷爷和睿宝辉宝打水仗，爷爷是真的在用心陪伴孙女长大。也许爷爷看到福宝玩水的视频，也想让自己和妹妹们体验福宝玩水的快乐吧！#大熊猫福宝#福宝和爷爷#睿宝辉宝#爱宝双胞胎#来这吸熊猫 辉宝睿宝 ,大熊猫...
+Processed iteration 12: video 03z2mmRrlAU (index 153761)
+
+Selected index 11875
+Row data: video_id='jCbo0ILYI5c', title='Cutis and Dad's sweet love #shorts #babymonkey #cutis'
+Video details preview: Cutis and Dad's sweet love #shorts #babymonkey #cutis Cutis and Dad's sweet love
+Welcome to Monkey C...
+Channel: UCts49F3TrcxPTul4ly8oyLQ, Collaborator: BabyMonkeyCutis, Collaborator ID: UCSsX5vkiXZyGX0znm7SLKsw, video id: jCbo0ILYI5c
+New link added: UCts49F3TrcxPTul4ly8oyLQ and UCSsX5vkiXZyGX0znm7SLKsw
+Number of channels (nodes) in network: 0
+Processed iteration 13: video jCbo0ILYI5c (index 11875)
+
+Selected index 21062
+Row data: video_id='04RayzTXCI8', title='Beach Day with our Baby and Dog!'
+Video details preview: Beach Day with our Baby and Dog! Subscribe for more videos!
+------------------------------------
+🐶Jo...
+Skipping host channel match:  for channel lady and the blues
+Processed iteration 14: video 04RayzTXCI8 (index 21062)
+
+Selected index 98640
+Row data: video_id='jlrwntL4SaY', title='Lunch time of dog’s family #shorts #youtubeshorts #viral #fyp #reels #puppy'
+Video details preview: Lunch time of dog’s family #shorts #youtubeshorts #viral #fyp #reels #puppy ...
+Skipping host channel match:  for channel pet and animal
+Processed iteration 15: video jlrwntL4SaY (index 98640)
+
+Selected index 45435
+Row data: video_id='MH0S9XGWnRI', title='犯错后的小狗不敢出笼子，家庭地位一目了然 #goldenretriever #dog #shorts'
+Video details preview: 犯错后的小狗不敢出笼子，家庭地位一目了然 #goldenretriever #dog #shorts 记录狗狗的每天日常，记得关注我哦！Record the daily life of the pup...
+Skipping host channel match:  for channel my little golden
+Processed iteration 16: video MH0S9XGWnRI (index 45435)
+
+Selected index 79247
+Row data: video_id='KFHHu81JSHU', title='my frenchie tries the SECRET dog menu at Shake Shack #dogs #pets #cute #frenchbulldog #vlog'
+Video details preview: my frenchie tries the SECRET dog menu at Shake Shack #dogs #pets #cute #frenchbulldog #vlog ...
+Skipping host channel match:  for channel vixbull frenchies
+Processed iteration 17: video KFHHu81JSHU (index 79247)
+
+Selected index 13568
+Row data: video_id='7CN0luyzGGA', title='What a Gorgeous Rottweiler 🙌🏻'
+Video details preview: What a Gorgeous Rottweiler 🙌🏻 Follow Us: Facebook: http://www.facebook.com/rottweilerlife
+
+Credit to...
+Skipping host channel match:  for channel rottweiler life
+Processed iteration 18: video 7CN0luyzGGA (index 13568)
+
+Selected index 69065
+Row data: video_id='7oiTvcXIEow', title='Anne sevgisi, şefkati bu işte .Yavru kedilerini gözünden hiç ayırmıyor'
+Video details preview: Anne sevgisi, şefkati bu işte .Yavru kedilerini gözünden hiç ayırmıyor ...
+Skipping host channel match:  for channel bilgiden bilgiye
+Processed iteration 19: video 7oiTvcXIEow (index 69065)
+
+Selected index 26488
+Row data: video_id='DuckxUm3tOE', title='Transgender attorney Stephanie Mueller, 70, puts on busty display during court hearing'
+Video details preview: Transgender attorney Stephanie Mueller, 70, puts on busty display during court hearing A 70-year-old...
+Channel: UCrvhNP_lWuPIP6QZzJmM-bw, Collaborator: Jonathan Choe, Collaborator ID: UCn18VDYsl0sGTkQFL2zwB8g, video id: DuckxUm3tOE
+New link added: UCrvhNP_lWuPIP6QZzJmM-bw and UCn18VDYsl0sGTkQFL2zwB8g
+Number of channels (nodes) in network: 0
+Processed iteration 20: video DuckxUm3tOE (index 26488)
+
+Selected index 144873
+Row data: video_id='1hmNUnlyljM', title='Live Snooze Fest: Relaxing Moments with a Sleeping Pomeranian'
+Video details preview: Live Snooze Fest: Relaxing Moments with a Sleeping Pomeranian Watch a charming Pomeranian peacefully...
+Skipping host channel match:  for channel yogisinsta
+Processed iteration 21: video 1hmNUnlyljM (index 144873)
+
+Selected index 75420
+Row data: video_id='6mpDrrb1hso', title='Big Boerboel Puppy Tigger 7 weeks  #boerboelpuppy #shortsbeta'
+Video details preview: Big Boerboel Puppy Tigger 7 weeks  #boerboelpuppy #shortsbeta Meet Tigger, the big Boerboel puppy wh...
+Skipping host channel match:  for channel exotic boerboels
+Processed iteration 22: video 6mpDrrb1hso (index 75420)
+
+Selected index 12594
+Row data: video_id='BUKEQhPkWvY', title='cutis lost goat #shorts #cutis #monkey'
+Video details preview: cutis lost goat #shorts #cutis #monkey cutis asked mom to drink milk
+Welcome to Monkey Cutis and Cut...
+Channel: UCts49F3TrcxPTul4ly8oyLQ, Collaborator: BabyMonkeyCutis, Collaborator ID: UCSsX5vkiXZyGX0znm7SLKsw, video id: BUKEQhPkWvY
+Frequency updated to link: UCts49F3TrcxPTul4ly8oyLQ and UCSsX5vkiXZyGX0znm7SLKsw
+Processed iteration 23: video BUKEQhPkWvY (index 12594)
+
+Selected index 84390
+Row data: video_id='XR_BrRGLjH4', title='Sending off some animals with LOVE 🥳🦎💚'
+Video details preview: Sending off some animals with LOVE 🥳🦎💚 ...
+Skipping host channel match:  for channel geeky gecko creations
+Processed iteration 24: video XR_BrRGLjH4 (index 84390)
+
+Selected index 69629
+Row data: video_id='u8c92Gm-e8Y', title='Risks'
+Error getting details for video ID u8c92Gm-e8Y: list index out of range
+Video details preview: {}...
+Error getting host channel details for video u8c92Gm-e8Y: list index out of range
+Processed iteration 25: video u8c92Gm-e8Y (index 69629)
+
+Selected index 103319
+Row data: video_id='EdPGltwZemU', title='Many dogs are rescued from these worms. | Video Compilation Part 02.'
+Error getting details for video ID EdPGltwZemU: list index out of range
+Video details preview: {}...
+Error getting host channel details for video EdPGltwZemU: list index out of range
+Processed iteration 26: video EdPGltwZemU (index 103319)
+
+Selected index 117880
+Row data: video_id='CYkPk9-eBkc', title='Chimp's Crazy Pursuit: Cat's "Cactus" Love #funny #purrfectmoments #cat #purr #catlovers #cartoon'
+Video details preview: Chimp's Crazy Pursuit: Cat's "Cactus" Love #funny #purrfectmoments #cat #purr #catlovers #cartoon We...
+Skipping host channel match:  for channel noah williams
+Processed iteration 27: video CYkPk9-eBkc (index 117880)
+
+Selected index 24855
+Row data: video_id='iPwtwub2TEk', title='Supreme Court affirms Trump-era tax on overseas wealth in win for IRS'
+Video details preview: Supreme Court affirms Trump-era tax on overseas wealth in win for IRS The Supreme Court ruled Thursd...
+Processed iteration 28: video iPwtwub2TEk (index 24855)
+
+Selected index 120748
+Row data: video_id='UnhbaVAVYOs', title='color truck, Farming Simulator 22, p131-1, #fs22'
+Video details preview: color truck, Farming Simulator 22, p131-1, #fs22 color truck, Farming Simulator 22, p131-1, #fs22...
+Skipping host channel match:  for channel  may xuc xe tai mt
+Processed iteration 29: video UnhbaVAVYOs (index 120748)
+
+Selected index 42436
+Row data: video_id='1DgJAuKiQG4', title='Yes, and? Dog version #dog #shorts'
+Video details preview: Yes, and? Dog version #dog #shorts ...
+Skipping host channel match:  for channel ember
+Processed iteration 30: video 1DgJAuKiQG4 (index 42436)
+
+Selected index 32825
+Row data: video_id='ZXroBjM4_BE', title='Do you like the red or cream bear? Red Teddy Cream Bear's daily record of cute pets. It really l'
+Video details preview: Do you like the red or cream bear? Red Teddy Cream Bear's daily record of cute pets. It really l Do ...
+Skipping host channel match:  for channel vds - pomeranian
+Processed iteration 31: video ZXroBjM4_BE (index 32825)
+
+Selected index 23502
+Row data: video_id='Kl7H1aTQsnM', title='‘Erratic’ plane passenger ‘ripped open’ exit door, walked onto wing: ‘Strange behavior’'
+Video details preview: ‘Erratic’ plane passenger ‘ripped open’ exit door, walked onto wing: ‘Strange behavior’ He decided t...
+Processed iteration 32: video Kl7H1aTQsnM (index 23502)
+
+Selected index 111172
+Row data: video_id='XXfgrtL9JDI', title='[1094] Blue mean as hell'
+Video details preview: [1094] Blue mean as hell ♦ Game (Google Play Store): https://play.google.com/store/apps/details?id=c...
+Skipping host channel match:  for channel mimiblueosa
+Processed iteration 33: video XXfgrtL9JDI (index 111172)
+
+Selected index 68049
+Row data: video_id='NHWiEYbHMfY', title='Hallelujah #3southerncatsandmomma'
+Video details preview: Hallelujah #3southerncatsandmomma ...
+Processed iteration 34: video NHWiEYbHMfY (index 68049)
+
+Selected index 102537
+Row data: video_id='BjJGaUDSZAE', title='‘Britain’s Ugliest Dog’ Cast in Deadpool and Wolverine Movie'
+Video details preview: ‘Britain’s Ugliest Dog’ Cast in Deadpool and Wolverine Movie ...
+Skipping host channel match:  for channel weratedogs
+Processed iteration 35: video BjJGaUDSZAE (index 102537)
+
+Selected index 37121
+Row data: video_id='jfRoMzh_TCQ', title='Sushi? Raw Snake Meat can have Worms!'
+Video details preview: Sushi? Raw Snake Meat can have Worms! In many countries drinking snake blood and eating raw snakes i...
+Skipping host channel match: New England Reptile for channel new england reptile
+Processed iteration 36: video jfRoMzh_TCQ (index 37121)
+
+Selected index 73719
+Row data: video_id='gJshrrK4J6k', title='Massive Blue Bay Shepherd!'
+Video details preview: Massive Blue Bay Shepherd! See channel O.G.s Kurgan and Lobo running through the woods at Sunrise. 
+...
+Skipping host channel match: 1st508th Airborne for channel 1st508th airborne
+Processed iteration 37: video gJshrrK4J6k (index 73719)
+
+Selected index 27659
+Row data: video_id='9Oziij9juNQ', title='WATCH: Father fights off creep who tried to kidnap 4-year-old son in the middle of a busy pharmacy'
+Video details preview: WATCH: Father fights off creep who tried to kidnap 4-year-old son in the middle of a busy pharmacy F...
+Skipping host channel match:  for channel new york post
+Processed iteration 38: video 9Oziij9juNQ (index 27659)
+
+Selected index 87265
+Row data: video_id='2a7H5cZN1to', title='He smells food'
+Video details preview: He smells food big boy smells home cooking in the kitchen climbs onto the table
+
+#catlover #catlife ...
+Skipping host channel match:  for channel murzbo
+Processed iteration 39: video 2a7H5cZN1to (index 87265)
+
+Selected index 93576
+Row data: video_id='imm51fGekfk', title='#cat #cute #pets #funny'
+Video details preview: #cat #cute #pets #funny ...
+Skipping host channel match:  for channel kitcancomedy
+Processed iteration 40: video imm51fGekfk (index 93576)
+
+Selected index 122934
+Row data: video_id='Wc4l1Fo9uMY', title='#amorincondicional #catlover #peru #cat #gatos #adoptaconamor #babyanimal #fiel'
+Video details preview: #amorincondicional #catlover #peru #cat #gatos #adoptaconamor #babyanimal #fiel ...
+Skipping host channel match:  for channel animalmundo
+Processed iteration 41: video Wc4l1Fo9uMY (index 122934)
+
+Selected index 87929
+Row data: video_id='YLE4vaJ5xWQ', title='This Is The Sweetest Thing Ever 🐷❤️'
+Video details preview: This Is The Sweetest Thing Ever 🐷❤️ Isn't this the sweetest thing ever? 🥹
+
+Angie still likes to try ...
+Processed iteration 42: video YLE4vaJ5xWQ (index 87929)
+
+Selected index 63900
+Row data: video_id='qkajNyLkSIE', title='Кот показал кто главный! #кошки'
+Video details preview: Кот показал кто главный! #кошки ...
+Skipping host channel match:  for channel cat busya🐱
+Processed iteration 43: video qkajNyLkSIE (index 63900)
+
+Selected index 78438
+Row data: video_id='AZoTWmKnKUg', title='Baby monkey sleeps well on mom ‘s hand #monkey #babymonkey #cute #animals'
+Video details preview: Baby monkey sleeps well on mom ‘s hand #monkey #babymonkey #cute #animals ...
+Skipping host channel match:  for channel cute baby monkey yumy 
+Processed iteration 44: video AZoTWmKnKUg (index 78438)
+
+Selected index 149794
+Row data: video_id='6lEJ8wPBElw', title='Vintage Fabric Is A Good Reseller & Finding a Bosch At Local Yard Sale #reselling #yardsalefinds'
+Video details preview: Vintage Fabric Is A Good Reseller & Finding a Bosch At Local Yard Sale #reselling #yardsalefinds Tha...
+Skipping host channel match:  for channel retro stephanie 
+Processed iteration 45: video 6lEJ8wPBElw (index 149794)
+
+Selected index 52824
+Row data: video_id='QRCDsj-u5TY', title='Great Job!! Best Mom Well Take Care The Little Baby #shorts'
+Video details preview: Great Job!! Best Mom Well Take Care The Little Baby #shorts Welcome to my Chanel Monkey Family, PLEA...
+Skipping host channel match:  for channel monkey family
+Processed iteration 46: video QRCDsj-u5TY (index 52824)
+
+Selected index 134495
+Row data: video_id='kDtMvRH9ih8', title='The Tortoises super excited at Attend the huge Larchmont Block party today!! 🐢🐢🐢❤️🌎'
+Video details preview: The Tortoises super excited at Attend the huge Larchmont Block party today!! 🐢🐢🐢❤️🌎 ...
+Skipping host channel match:  for channel the tortoise guy
+Processed iteration 47: video kDtMvRH9ih8 (index 134495)
+
+Selected index 153750
+Row data: video_id='RV53w6vU--A', title='乐宝的大小餐桌都换新的了，从来就没被忽视过。#来这吸熊猫#大熊猫乐宝'
+Video details preview: 乐宝的大小餐桌都换新的了，从来就没被忽视过。#来这吸熊猫#大熊猫乐宝 辉宝睿宝 ,大熊猫 ,熊猫福宝 ,panda ,熊猫爱宝,熊猫乐宝 ,熊猫睿宝 ,熊猫辉宝 ,姜爷爷和福宝 ,宋侍卫 ,宋三岁 ,...
+Skipping host channel match:  for channel 熊貓日記
+Processed iteration 48: video RV53w6vU--A (index 153750)
+
+Selected index 3747
+Row data: video_id='#NAME?', title='A Visit To A Senior Dog Sanctuary'
+Error getting details for video ID #NAME?: list index out of range
+Video details preview: {}...
+Error getting host channel details for video #NAME?: list index out of range
+Processed iteration 49: video #NAME? (index 3747)
+
+Selected index 78144
+Row data: video_id='WvKxxT4EB_U', title='Yumy swims with Dad'
+Video details preview: Yumy swims with Dad Yumy swims with Dad
+All characters and Corporations or Establishments appearing ...
+Skipping host channel match:  for channel cute baby monkey yumy 
+Processed iteration 50: video WvKxxT4EB_U (index 78144)
+
+Selected index 122477
+Row data: video_id='MyUWiXGuhtw', title='Pigeon #pigeon'
+Video details preview: Pigeon #pigeon ...
+Skipping host channel match:  for channel aayan loft - racing pigeon aviary
+Processed iteration 51: video MyUWiXGuhtw (index 122477)
+
+Selected index 153739
+Row data: video_id='sZF9yVW_fwI', title='福宝挨批了，是的没错徐奶爸“狠狠”的批评了福宝。究竟发生了什么呢？姨姨们猜一下#大熊猫 #大熊猫福宝 #panda #来这吸熊猫 #熊猫福宝'
+Video details preview: 福宝挨批了，是的没错徐奶爸“狠狠”的批评了福宝。究竟发生了什么呢？姨姨们猜一下#大熊猫 #大熊猫福宝 #panda #来这吸熊猫 #熊猫福宝 辉宝睿宝 ,大熊猫 ,熊猫福宝 ,panda ,熊猫爱宝,...
+Processed iteration 52: video sZF9yVW_fwI (index 153739)
+
+Selected index 102993
+Row data: video_id='OIm-oo-Fs_A', title='Ксения Бородина Shorts #1297 #shorts #ксениябородина'
+Video details preview: Ксения Бородина Shorts #1297 #shorts #ксениябородина OFFICIAL: https://www.instagram.com/borodylia...
+Skipping host channel match: Ксения Бородина for channel ксения бородина shorts
+Processed iteration 53: video OIm-oo-Fs_A (index 102993)
+
+Selected index 2840
+Row data: video_id='zbVU3kztpuQ', title='Judgy Cat's Backyard Craziness'
+Video details preview: Judgy Cat's Backyard Craziness Judgy Cat is having a backyard BREAKDOWN! 🌳😈😹 #JudgyCat #Summer#Dogs ...
+Skipping host channel match:  for channel the pet collective
+Processed iteration 54: video zbVU3kztpuQ (index 2840)
+
+Selected index 55539
+Row data: video_id='qmlw06Lhz8M', title='Monkey Lyly acts so smart #shorts #monkey #youtubeshorts #cute #animals #petmonkey'
+Video details preview: Monkey Lyly acts so smart #shorts #monkey #youtubeshorts #cute #animals #petmonkey Watch the full vi...
+Skipping host channel match:  for channel monkey lyly
+Processed iteration 55: video qmlw06Lhz8M (index 55539)
+
+Selected index 59728
+Row data: video_id='zWZ4bSudeFI', title='Gym trainer🏋🏻‍♂️ gets unexpected ‘Blast’💨during workout 😭🤮😳 #reaction #viral #dogs #funny'
+Video details preview: Gym trainer🏋🏻‍♂️ gets unexpected ‘Blast’💨during workout 😭🤮😳 #reaction #viral #dogs #funny Welcome ba...
+Skipping host channel match:  for channel merle frenchie reactions
+Processed iteration 56: video zWZ4bSudeFI (index 59728)
+
+Selected index 43228
+Row data: video_id='hNPSXU2dqdU', title='Cute Funny Cats😀#shorts  #funnycats'
+Video details preview: Cute Funny Cats😀#shorts  #funnycats Subscribe if you like it,leave comments and share with your frie...
+Skipping host channel match:  for channel pawspace
+Processed iteration 57: video hNPSXU2dqdU (index 43228)
+
+Selected index 48817
+Row data: video_id='bW0YPN85bTY', title='Hi Super man haha #hedgehoglover #cute'
+Video details preview: Hi Super man haha #hedgehoglover #cute ...
+Skipping host channel match:  for channel pteas hedgehog
+Processed iteration 58: video bW0YPN85bTY (index 48817)
+
+Selected index 109364
+Row data: video_id='5NP9f-59NxU', title='Trabajando en puertas. Carreras. Caballos #caballos #horsesports'
+Video details preview: Trabajando en puertas. Carreras. Caballos #caballos #horsesports ...
+Skipping host channel match:  for channel first down dash
+Processed iteration 59: video 5NP9f-59NxU (index 109364)
+
+Selected index 124724
+Row data: video_id='RHTJ9IxG60Y', title='We’re BACK!!'
+Video details preview: We’re BACK!! ...
+Skipping host channel match:  for channel vw family farm
+Processed iteration 60: video RHTJ9IxG60Y (index 124724)
+
+Selected index 83748
+Row data: video_id='h_EfqYSzgUY', title='This cat sounds like Butters'
+Video details preview: This cat sounds like Butters This is Wally, a 9-10 year old cat at the cat cafe. His meow reminds me...
+Skipping host channel match: Butters for channel butters the bean
+Processed iteration 61: video h_EfqYSzgUY (index 83748)
+
+Selected index 125246
+Row data: video_id='yrKiOTrMcPk', title='Cat Paw ASMR #cutesqueeze #asmrvideo #cute #squishy #handmade'
+Video details preview: Cat Paw ASMR #cutesqueeze #asmrvideo #cute #squishy #handmade ...
+Skipping host channel match:  for channel cutesqueezelove
+Processed iteration 62: video yrKiOTrMcPk (index 125246)
+
+Selected index 127371
+Row data: video_id='TMIYvHGHlUw', title='Who's New at the Houston Zoo'
+Video details preview: Who's New at the Houston Zoo Kick off your summer with a Zoo visit! We have adorable additions for y...
+Skipping host channel match:  for channel houston zoo
+Processed iteration 63: video TMIYvHGHlUw (index 127371)
+
+Selected index 12153
+Row data: video_id='kcZ8EC4OBjs', title='Cutis was worried when he saw daddy sick#shorts #cutis #monkey'
+Video details preview: Cutis was worried when he saw daddy sick#shorts #cutis #monkey cutis asked mom to drink milk
+Welcome...
+Channel: UCts49F3TrcxPTul4ly8oyLQ, Collaborator: BabyMonkeyCutis, Collaborator ID: UCSsX5vkiXZyGX0znm7SLKsw, video id: kcZ8EC4OBjs
+Frequency updated to link: UCts49F3TrcxPTul4ly8oyLQ and UCSsX5vkiXZyGX0znm7SLKsw
+Processed iteration 64: video kcZ8EC4OBjs (index 12153)
+
+Selected index 74460
+Row data: video_id='Zt0rqNUMnPE', title='This is not a paranormal occurrence ‼️😱What happened to this bird 😱'
+Video details preview: This is not a paranormal occurrence ‼️😱What happened to this bird 😱 Rescue of a Cormorant Bird Caugh...
+Processed iteration 65: video Zt0rqNUMnPE (index 74460)
+
+Selected index 3867
+Row data: video_id='oPkhQBQn-TA', title='Pug Puppy Tempted With Treats'
+Video details preview: Pug Puppy Tempted With Treats Even dogs have new year's diets! 🐶 #Dogs #Bones #Funny #Pugs #DogParen...
+Skipping host channel match:  for channel the pet collective
+Processed iteration 66: video oPkhQBQn-TA (index 3867)
+
+Selected index 3159
+Row data: video_id='dU_jtKjkKLQ', title='Baby Cow Enjoys the View Through Car Window!'
+Video details preview: Baby Cow Enjoys the View Through Car Window! New life goal: See a car cow!😂🐄💕  #Cows #Cute #BabyAnim...
+Skipping host channel match:  for channel the pet collective
+Processed iteration 67: video dU_jtKjkKLQ (index 3159)
+
+Selected index 89216
+Row data: video_id='ko46v5LiqTY', title='It's Amazing! A Man Fainted Accidentally, And The Emergency Rescue Dog Found A Way To Rescue Him'
+Error getting details for video ID ko46v5LiqTY: list index out of range
+Video details preview: {}...
+Error getting host channel details for video ko46v5LiqTY: list index out of range
+Processed iteration 68: video ko46v5LiqTY (index 89216)
+
+Selected index 122174
+Row data: video_id='gPjaurlv46g', title='쿵푸팬더 실사판'
+Video details preview: 쿵푸팬더 실사판 #shorts  #shorts #wholesome #heartwarming #mademesmile #story #stories #Tiktok #DIY #Recipe...
+Processed iteration 69: video gPjaurlv46g (index 122174)
+
+Selected index 114348
+Row data: video_id='8SZXJ8CGvOw', title='If a dog was the protagonist of a suspense/thriller movie'
+Video details preview: If a dog was the protagonist of a suspense/thriller movie ...
+Skipping host channel match:  for channel the golden ellie
+Processed iteration 70: video 8SZXJ8CGvOw (index 114348)
+
+Selected index 121857
+Row data: video_id='HzNa5m4lBw4', title='Dogs And Owners Compilation - TNTL #funnyvideos #funny #trynottolaugh #cat #dogs #memes #meme'
+Video details preview: Dogs And Owners Compilation - TNTL #funnyvideos #funny #trynottolaugh #cat #dogs #memes #meme Try No...
+Skipping host channel match:  for channel memetropolis
+Processed iteration 71: video HzNa5m4lBw4 (index 121857)
+
+Selected index 78604
+Row data: video_id='x5ht0CSBqgo', title='Funny Dog and Cat 😂😂 Episode 121 #funny #dog #cat #animals #fyp'
+Error getting details for video ID x5ht0CSBqgo: list index out of range
+Video details preview: {}...
+Error getting host channel details for video x5ht0CSBqgo: list index out of range
+Processed iteration 72: video x5ht0CSBqgo (index 78604)
+
+Selected index 44478
+Row data: video_id='yDumf5gZCZg', title='Cute Wild animal bobak marmot or prairie dog eating cookies yummy 4'
+Video details preview: Cute Wild animal bobak marmot or prairie dog eating cookies yummy 4 We are the Official Marmot Chann...
+Skipping host channel match:  for channel the bobak marmot
+Processed iteration 73: video yDumf5gZCZg (index 44478)
+
+Selected index 41597
+Row data: video_id='GE6Fjx1fadc', title='Funny Dogs And Cats Videos 2024 😅 - Best Funniest Animal Videos Of The Month 🥰👌 Part 45'
+Video details preview: Funny Dogs And Cats Videos 2024 😅 - Best Funniest Animal Videos Of The Month 🥰👌 Part 45 ❤️Канал - ht...
+Too many collaborators in video GE6Fjx1fadc: ['бабичь', 'Влад глент', 'кобяков', 'хелоукидс', 'Даня милохин', 'а4 продакшн', 'дримтим хаус', 'валя карнавал']
+Processed iteration 74: video GE6Fjx1fadc (index 41597)
+
+Selected index 97349
+Row data: video_id='iF3P4q6aqrI', title='He stinks 😂'
+Video details preview: He stinks 😂 ...
+Skipping host channel match:  for channel kotttherott
+Processed iteration 75: video iF3P4q6aqrI (index 97349)
+
+Selected index 67519
+Row data: video_id='l1k3ccM4i90', title='Pet brush#foryou #cute #catlike #cleaning #clean #cat #satisfactory #shorts #animals #youtubeshorts'
+Video details preview: Pet brush#foryou #cute #catlike #cleaning #clean #cat #satisfactory #shorts #animals #youtubeshorts ...
+Skipping host channel match:  for channel fluffytempo
+Processed iteration 76: video l1k3ccM4i90 (index 67519)
+
+Selected index 52507
+Row data: video_id='zz0H2jyViZY', title='Small Mom ELLEN So Great Care Little Newborn EVELYN #shorts'
+Video details preview: Small Mom ELLEN So Great Care Little Newborn EVELYN #shorts Welcome to my Chanel Monkey Family, PLEA...
+Skipping host channel match:  for channel monkey family
+Processed iteration 77: video zz0H2jyViZY (index 52507)
+
+Selected index 129859
+Row data: video_id='PJnf6ak4jX4', title='Qo’y boqishning arzon usullari #qochqor #qoyboqish #molbozor #molxona #yemek #2024 #RomaVetuz'
+Video details preview: Qo’y boqishning arzon usullari #qochqor #qoyboqish #molbozor #molxona #yemek #2024 #RomaVetuz ...
+Skipping host channel match:  for channel romavetuz
+Processed iteration 78: video PJnf6ak4jX4 (index 129859)
+
+Selected index 47042
+Row data: video_id='UFdIX5R6ByU', title='Wild Horse Won’t Stand Up – Vet Calls Police After Seeing Ultrasound!'
+Video details preview: Wild Horse Won’t Stand Up – Vet Calls Police After Seeing Ultrasound! A wild horse had been lying on...
+Skipping host channel match:  for channel wonderbot animals
+Processed iteration 79: video UFdIX5R6ByU (index 47042)
+
+Selected index 115045
+Row data: video_id='RHFmETJreDs', title='#Hawk #Eagle #Owl #Wildlife #Animal #EagleHawkOwl hawk vs snake, Owl vs snake fight, Eagle Vs Snake,'
+Video details preview: #Hawk #Eagle #Owl #Wildlife #Animal #EagleHawkOwl hawk vs snake, Owl vs snake fight, Eagle Vs Snake,...
+Skipping host channel match:  for channel wildlife kh
+Processed iteration 80: video RHFmETJreDs (index 115045)
+
+Selected index 6708
+Row data: video_id='Ghgr_a31iJc', title='CATCHING Exotic GIANT HYBRID TIGER CATFISH in Florida!'
+Video details preview: CATCHING Exotic GIANT HYBRID TIGER CATFISH in Florida! Catching exotic giant hybrid tiger catfish in...
+Processed iteration 81: video Ghgr_a31iJc (index 6708)
+
+Selected index 91278
+Row data: video_id='oLar-ntEnDU', title='Бай Тору Сатылды✊️'
+Video details preview: Бай Тору Сатылды✊️ Аллах ыраазы болсун Лайк баскандарга👍Реклама👇  Үчүн+996-703- 87- 70- 37
+🔥🔥🔥🔥🔥🔥🔥🔥🔥...
+Skipping host channel match:  for channel osh kabar
+Processed iteration 82: video oLar-ntEnDU (index 91278)
+
+Selected index 87121
+Row data: video_id='h0BxroWviHY', title='wave pool'
+Error getting details for video ID h0BxroWviHY: list index out of range
+Video details preview: {}...
+Error getting host channel details for video h0BxroWviHY: list index out of range
+Processed iteration 83: video h0BxroWviHY (index 87121)
+
+Selected index 116744
+Row data: video_id='63ZWvGwyvhA', title='Dating Damohan tungo sa Magandang Kabuhayan #farming #freerange'
+Video details preview: Dating Damohan tungo sa Magandang Kabuhayan #farming #freerange Dating Damohan tungo sa Magandang Ka...
+Skipping host channel match:  for channel farming business atbp
+Processed iteration 84: video 63ZWvGwyvhA (index 116744)
+
+Selected index 56436
+Row data: video_id='63oJDAGaEBw', title='My Dogs Have a Water Balloon Fight!'
+Video details preview: My Dogs Have a Water Balloon Fight! 🐕 SUBSCRIBE - https://kee.gg/subscribedap
+🦮 FIRE MERCH - http://...
+Skipping host channel match:  for channel daisy and poppy
+Processed iteration 85: video 63oJDAGaEBw (index 56436)
+
+Selected index 121218
+Row data: video_id='ZZydGXpZH48', title='Some ways social media apps manipulate children'
+Video details preview: Some ways social media apps manipulate children From episode 138 of 'Today in Tech', Dr. Lisa Strohm...
+Processed iteration 86: video ZZydGXpZH48 (index 121218)
+
+Selected index 56778
+Row data: video_id='_Qx6i6LkEVU', title='Tiger Cam of Animal Adventure: Bao & Ming'
+Video details preview: Tiger Cam of Animal Adventure: Bao & Ming Enjoy the antics, fun, and many hours of cat naps, with ti...
+Skipping host channel match:  for channel animal adventure park
+Processed iteration 87: video _Qx6i6LkEVU (index 56778)
+
+Selected index 21795
+Row data: video_id='AlZLgeZLdzE', title='Trim donkey hoofs in 20 seconds~丨ASMR丨Donkey hoof cutting sound'
+Video details preview: Trim donkey hoofs in 20 seconds~丨ASMR丨Donkey hoof cutting sound Trim donkey hoofs in 20 seconds~丨ASM...
+Channel: UCVK8FzQZuVWhFPnn4ezBNoQ, Collaborator: Master Sun, Collaborator ID: UC0cxvJ7S6NPdvq-9ZeNTtng, video id: AlZLgeZLdzE
+New link added: UCVK8FzQZuVWhFPnn4ezBNoQ and UC0cxvJ7S6NPdvq-9ZeNTtng
+Number of channels (nodes) in network: 0
+Processed iteration 88: video AlZLgeZLdzE (index 21795)
+
+Selected index 73768
+Row data: video_id='7yNwXMUd6z0', title='THANK YOU! - My Channel has AWESOME Subscribers!!'
+Video details preview: THANK YOU! - My Channel has AWESOME Subscribers!! Unboxing GOODIES for My Dogs!! Whole rabbits, beav...
+Channel: UClZCJyVftq6XMBBTCc_N1Nw, Collaborator: Joker James, Collaborator ID: UCfJMxLp09cnv1VgSPFqIvwg, video id: 7yNwXMUd6z0
+New link added: UClZCJyVftq6XMBBTCc_N1Nw and UCfJMxLp09cnv1VgSPFqIvwg
+Number of channels (nodes) in network: 0
+Processed iteration 89: video 7yNwXMUd6z0 (index 73768)
+
+Selected index 122606
+Row data: video_id='NMjDIaBweio', title='#pigeon 🕊️'
+Video details preview: #pigeon 🕊️ ...
+Skipping host channel match:  for channel aayan loft - racing pigeon aviary
+Processed iteration 90: video NMjDIaBweio (index 122606)
+
+Selected index 28915
+Row data: video_id='v0BH1wDqbjo', title='Let’s make this promise together 🥹 #dog #samoyed #nationaldogday'
+Video details preview: Let’s make this promise together 🥹 #dog #samoyed #nationaldogday ...
+Skipping host channel match:  for channel life with a landcloud
+Processed iteration 91: video v0BH1wDqbjo (index 28915)
+
+Selected index 135721
+Row data: video_id='Xjrxw39oFno', title='Sunday Fish N Hits w/ Dan'
+Error getting details for video ID Xjrxw39oFno: list index out of range
+Video details preview: {}...
+Error getting host channel details for video Xjrxw39oFno: list index out of range
+Processed iteration 92: video Xjrxw39oFno (index 135721)
+
+Selected index 74942
+Row data: video_id='DOCsRq2Pr78', title='ALPHADOG SHOWDOWN'
+Video details preview: ALPHADOG SHOWDOWN Support the stream: https://streamlabs.com/sl_id_418f7567-1228-38ff-a15a-b43d7fa61...
+Skipping host channel match:  for channel exotic boerboels
+Processed iteration 93: video DOCsRq2Pr78 (index 74942)
+
+Selected index 56502
+Row data: video_id='uSilibO_9g0', title='Жалко, что я не увидела Тэффи в щенячьем возрасте🥹Она была сладким пирожочком😍  #глухаятэффи #dog'
+Video details preview: Жалко, что я не увидела Тэффи в щенячьем возрасте🥹Она была сладким пирожочком😍  #глухаятэффи #dog ...
+Skipping host channel match:  for channel stafford rocky
+Processed iteration 94: video uSilibO_9g0 (index 56502)
+
+Selected index 35024
+Row data: video_id='zdSn_XafzB4', title='Lucy has left us'
+Video details preview: Lucy has left us Please donate, help us continue saving lives
+https://letsadoptinternational.com/en/...
+Skipping host channel match:  for channel viktor larkhill
+Processed iteration 95: video zdSn_XafzB4 (index 35024)
+
+Selected index 96424
+Row data: video_id='RVCttfIzSoc', title='Considering The Farmer's Dog? Watch This First!'
+Video details preview: I ordered The Farmer's Dog to see if it was a scam 🐾 Monthly Giveaways, DIY Pet Food Guides & more:
+...
+Skipping host channel match:  for channel the bk pets
+Processed iteration 96: video RVCttfIzSoc (index 96424)
+
+Selected index 140383
+Row data: video_id='7ZjeGhnr7Gw', title='2x MIC-2 on 🎙️ DJI Osmo Pocket 3 🎙️'
+Video details preview: 2x MIC-2 on 🎙️ DJI Osmo Pocket 3 🎙️ Unboxing DJI MIC-2, and running it on DJI Osmo Pocket 3.
+Wow, th...
+Skipping host channel match:  for channel mygiguser
+Processed iteration 97: video 7ZjeGhnr7Gw (index 140383)
+
+Selected index 32100
+Row data: video_id='BFXmFxQWLcc', title='Meet Destiny #xlbullytraining #xlbully #merlebully'
+Video details preview: Meet Destiny #xlbullytraining #xlbully #merlebully ...
+Skipping host channel match:  for channel kingdom bully kennels
+Processed iteration 98: video BFXmFxQWLcc (index 32100)
+
+Selected index 145753
+Row data: video_id='EiVmOzqzHWc', title='The Chris Voss Show – The Enlightened Passenger: The Flight That Changes Everything by Corey Poirier'
+Video details preview: The Chris Voss Show – The Enlightened Passenger: The Flight That Changes Everything by Corey Poirier...
+Channel: UCHa4heUFyjbpQ12OmmQCC3w, Collaborator: Corey Poirier, Collaborator ID: UCZI5Xn0VzsAcZQ7MHcAvypw, video id: EiVmOzqzHWc
+New link added: UCHa4heUFyjbpQ12OmmQCC3w and UCZI5Xn0VzsAcZQ7MHcAvypw
+Number of channels (nodes) in network: 0
+Processed iteration 99: video EiVmOzqzHWc (index 145753)
+
+Selected index 85697
+Row data: video_id='p0rn-Fyo6y4', title='Major carpet trim'
+Video details preview: Major carpet trim ...
+Skipping host channel match:  for channel fish4ever
+Processed iteration 100: video p0rn-Fyo6y4 (index 85697)
